@@ -1,4 +1,4 @@
-package LCS;
+package LCS; // before run this java file plese comment the package line cause when you run this java file it show that the main function does not found
 public class LCS_Tabulation {
     public static void main(String[] args) {
         String s1 = "abcdgh";
