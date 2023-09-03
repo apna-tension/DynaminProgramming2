@@ -1,7 +1,7 @@
-##Dynamic Programming Series
+# Dynamic Programming Series
 
-#----------------------------------------------------------------
-#LCS -
+# ----------------------------------------------------------------
+## LCS -
     1. Longest Common Subsequence Tabulation
     2. Longest Common Substring
     3. Sortest Common Subsequence
