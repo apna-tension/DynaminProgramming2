@@ -4,7 +4,7 @@ package LCS; // comment out this line before you executing your code in the loca
 public class sequence_Pattern_Matching {
     public static void main(String[] args) {
         String s1 = "AXY";
-        String s2 = "ADXCPY";
+        String s2 = "ADXCPYL";
         int n = s1.length();
         int m = s2.length();
         System.out.println(tabulation(s1, s2, n, m) == n ? "Yes s1 is a subsequence of s2" : "s1 is not a subsequence of s2");
