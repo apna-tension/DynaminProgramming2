@@ -12,3 +12,4 @@
     8. Print Sortest Common SuperSequence
     9. Longest Repeating Subsequence // with printing THE LRS  
     10. Sequence Pattern Matching or not
+    11. Minimum Number of Insertion to make a string palindrome (same as Minimum number of Insertion to make a string palindrome)
