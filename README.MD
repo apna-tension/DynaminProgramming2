@@ -14,4 +14,7 @@
     10. Sequence Pattern Matching or not
     11. Minimum Number of Insertion to make a string palindrome (same as Minimum number of Insertion to make a string palindrome)
 ## MCM (Matrix Chain Multiplication)
-    1. MCM Recursive Multiplication
+    1. MCM Recursive 
+    2. MCM Memoization
+    3. Palindrome Partitioning of a string - Recursive
+    4. Palindrome Partitioning of a string - Memoization
