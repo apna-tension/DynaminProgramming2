@@ -1,3 +1,4 @@
+// Q: we are given a string which contains T,F,|,&,^ and we need to evaluate the expression and return the no of ways to evaluate the expression to true
 public class evaluateExp_True_recursive {
     public static void main(String[] args) {
         String s = "T|T&F^t"; // in the string "T|T&F^T" we need to evaluate the expression and return the no of ways to evaluate the expression to true
