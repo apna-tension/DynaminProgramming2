@@ -17,4 +17,5 @@
     1. MCM Recursive 
     2. MCM Memoization
     3. Palindrome Partitioning of a string - Recursive
-    4. Palindrome Partitioning of a string - Memoization
+    4. Palindrome Partitioning of a string - Memoization for avoiding re-calculations of left side of the K 
+    5. Palindrome Partitioning of a string - Optimal Memoization for avoiding re-calculations of both side of the K
