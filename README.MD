@@ -19,3 +19,5 @@
     3. Palindrome Partitioning of a string - Recursive
     4. Palindrome Partitioning of a string - Memoization for avoiding re-calculations of left side of the K 
     5. Palindrome Partitioning of a string - Optimal Memoization for avoiding re-calculations of both side of the K
+    6. Evaluate boolean expression to true || boolean parenthesization - Recursive
+    7. Evaluate boolean expression to true || boolean parenthesization - Memoization
