@@ -23,4 +23,4 @@
     7. Evaluate boolean expression to true || boolean parenthesization - Memoization
     8. Scramble String - Recursive
     8. Scramble String - Memoize
-    8. Scramble String - Optimal Memoize
+    8. Scramble String - Optimal Memoization
