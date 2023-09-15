@@ -22,5 +22,6 @@
     6. Evaluate boolean expression to true || boolean parenthesization - Recursive
     7. Evaluate boolean expression to true || boolean parenthesization - Memoization
     8. Scramble String - Recursive
-    8. Scramble String - Memoize
-    8. Scramble String - Optimal Memoization
+    9. Scramble String - Memoize
+    10. Scramble String - Optimal Memoization
+    11. Egg Dropping Problem - Recursive
