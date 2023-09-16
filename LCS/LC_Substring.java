@@ -1,5 +1,5 @@
 package LCS; // before run this java file plese comment the package line cause when you run this java file it show that the main function does not found
-
+import java.util.Arrays;
 public class LC_Substring {
     public static void main(String[] args) {
         String s1 = "abcdgh";
@@ -7,6 +7,7 @@ public class LC_Substring {
         int n = s1.length();
         int m = s2.length();
         System.out.println(tabulation(s1, s2, n, m));
+
     }
 
     private static int tabulation(String s1, String s2, int n, int m) {
@@ -22,8 +23,7 @@ public class LC_Substring {
                 }
             }
         }
-
-        // return dp[n][m];
         return max;
     }
+
 }
