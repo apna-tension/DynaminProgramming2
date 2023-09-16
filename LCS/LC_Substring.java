@@ -1,5 +1,5 @@
 package LCS; // before run this java file plese comment the package line cause when you run this java file it show that the main function does not found
-import java.util.Arrays;
+// import java.util.Arrays;
 public class LC_Substring {
     public static void main(String[] args) {
         String s1 = "abcdgh";
