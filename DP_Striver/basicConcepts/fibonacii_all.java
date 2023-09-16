@@ -15,6 +15,7 @@ public class fibonacii_all {
         Arrays.fill(dp, -1);
         System.out.println("Memoization : " + fibMemoized(n, dp));
         System.out.println("Tabulation : " + fibTabulation(n));
+        System.out.println("Optimal Space : " + optimalSpace(n));
     }
 
     private static int fibRecursive(int n) {
@@ -42,4 +43,18 @@ public class fibonacii_all {
         // System.out.println("The N'th Fibonacci is " + fib[n]);
         return dp[n];
     }
+
+    private static int optimalSpace(int n) {
+        if (n <= 1) return n;
+        int prev1 = 1;
+        int prev2 = 0;
+        int res = 0;
+        for (int i = 2; i <= n; i++) {
+            res = prev1 + prev2;
+            prev2 = prev1;
+            prev1 = res;
+        }
+        return res;
+    }
+
 }
