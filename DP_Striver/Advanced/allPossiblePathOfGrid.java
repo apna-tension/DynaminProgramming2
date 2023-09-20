@@ -1,8 +1,9 @@
 package Advanced;
+// Claculate all the possible path from top left to bottom right in a grid
 
+// Q: - https://leetcode.com/problems/unique-paths/
 // import java.io.BufferedReader;
 import java.util.*;
-
 public class allPossiblePathOfGrid {
     public static void main(String[] args) {
         // DataInputStream dis = new DataInputStream(System.in);
