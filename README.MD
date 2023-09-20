@@ -30,4 +30,9 @@
 # ----------------------------------------------------------------
 # DP Striver series
 ## Basic Concepts
-    1. Fibonacci number using Recursive algorithm , Memoization and Tabulation 
+    1. Fibonacci number using Recursive algorithm , Memoization and Tabulation  and Space Optimization
+    2. Factorial of a number usign Recursive algorithm , Memoization and Tabulation  and Space Optimization
+
+## Advanced concept
+    1. All possible path from top left to bottom right of a matrix using Recursive algorithm , Memoization and Tabulation  and Space Optimization
+    
