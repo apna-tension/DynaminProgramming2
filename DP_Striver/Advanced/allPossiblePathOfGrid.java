@@ -2,7 +2,11 @@ package Advanced;
 // Claculate all the possible path from top left to bottom right in a grid
 
 // Q: - https://leetcode.com/problems/unique-paths/
-// import java.io.BufferedReader;
+// Q: - https://leetcode.com/problems/unique-paths-ii/
+// Q: - https://leetcode.com/problems/unique-paths-iii/
+// GFG link : - https://www.geeksforgeeks.org/count-possible-paths-top-left-bottom-right-nxm-matrix/
+// GFG link : - https://www.geeksforgeeks.org/count-number-ways-reach-destination-maze/
+
 import java.util.*;
 public class allPossiblePathOfGrid {
     public static void main(String[] args) {
@@ -42,7 +46,7 @@ public class allPossiblePathOfGrid {
 
     // Recursion
     private static int recursion(int r, int c) {
-        if (r == 0 && c == 0) return 1;
+        if (r == 0 && c == 0) return 1; 
         if (r < 0 || c < 0) return 0;
         int top = recursion(r-1, c);
         int left = recursion(r, c-1);
