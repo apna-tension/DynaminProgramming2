@@ -34,5 +34,6 @@
     2. Factorial of a number usign Recursive algorithm , Memoization and Tabulation  and Space Optimization
 
 ## Advanced concept
+    1. Max sum of all the non-adjacent elements using Recursive algorithm , Memoization and Tabulation  and Space Optimization
     1. All possible path from top left to bottom right of a matrix using Recursive algorithm , Memoization and Tabulation  and Space Optimization
     2. All unique path from top left to bottom right of a matrix, and the matrix have some block cells, find the number of unique path using Recursive algorithm , Memoization and Tabulation and Space Optimization
